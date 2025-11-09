@@ -77,7 +77,7 @@ function extractHeroIdFromUrl(url: string): string {
  */
 const App: React.FC = () => (
   <QueryClientProvider client={queryClient}>
-    <Router>
+    <Router basename="/sw-graph">
       <AppRoutes />
     </Router>
   </QueryClientProvider>
