@@ -13,6 +13,8 @@
 
 **Explore the Star Wars universe through an interactive graph visualization**
 
+[**Live Demo**](https://jeolinna.github.io/sw-graph/)
+
 </div>
 
 ## 🎯 Features
